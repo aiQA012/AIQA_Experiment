@@ -1,16 +1,8 @@
-# 1. Welcome to Join Our AIQA Experiment!
+# 1. Welcome to Join Our AIQA Study!
 
-Qualitative analysis (QA) is widely used in human computer interaction and social computing research areas. Coding is one of the important processes in QA to form and find patterns and insights in the qualitative data. It heavily depends on human labor, which is very low-efficient and time-consuming. In the past few years, researchers have proposed to use AI (Artificial Intelligence) to improve the efficiency of this process. However, the collaboration part in coding process hasn’t been a focus by them. Our project aims at improving the efficiency of coding process by providing AI based collaboration tool. By using AI to assist the collaboration process between different coders in coding process, the efficiency of coding process could be improved. This may save much time for QA researchers.
+Qualitative analysis (QA), a common method in human-computer interaction and social computing research, involves a key process known as coding. This procedure is crucial for discerning patterns and extracting insights from qualitative data, though it's traditionally labor-intensive and time-consuming. In recent years, researchers have introduced Artificial Intelligence (AI) to enhance the efficiency of this process. However, they've largely overlooked the collaborative aspect of the coding process. Our project seeks to bridge this gap by offering an AI-based tool to streamline collaboration among coders. Utilizing AI to facilitate this interaction could potentially improve coding efficiency, potentially saving considerable time for QA researchers.
 
-# 2. A Five-minute Introduction to Qualitative Analysis
-
-Please watch the following video to get an understanding of how to do qualitative analysis (sometimes it is also called qualitative coding, but they are not exactly the same).
-
-<div style="padding:62.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/651816055?h=704550dd3e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Tutorial"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
--------------
-
-# 3. Experiment Process
+# 2. Study Process
 
 ## 1) Task Introduction
 
@@ -24,17 +16,16 @@ Your task is to code the sentences so that we may obtain a meaningful analysis o
 - A succinct **subcode** or **description** could be "A person was asked to follow up on a task".
 - This sentence would then be added as one of the **examples** of *Action Items* code.
 
-## 2) Try the App!
 
-Here you can try traditional [etherpad](https://rich.etherpad.com/). For the control experiment group, we will use this app to do qualitative analysis. In our experiment group, we will use an AI assisted tool to provide suggestions for your coding process! You will be assigned to experiment group or control group randomly.
+<!-- # 3. A Five-minute Introduction to Qualitative Analysis
 
-For experiment group, AIcoder will be displayed to you during the experiment due to SUTD VPN restriction. AIcoder is a tool that enables you and your partner do coding using the same AI model. In the coding process, AIcoder powered by AI models will provide suggestions in a real-time based on your and your partner's codes history. 
-- add code
-- edit code
-- delete code
-- confidence level
+Please view the subsequent video for a detailed understanding of qualitative analysis in this study
 
-## 3) Study Instruction
+<div style="padding:62.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/651816055?h=704550dd3e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Tutorial"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+ -->
+
+
+## 2) Study Instruction
 
 <!-- ### ExB:
 **Creating the Codebook**
@@ -83,7 +74,7 @@ For experiment group, AIcoder will be displayed to you during the experiment due
    - Do you feel that AIcoder helps you improve your coding efficiency and collaboration efficiency?
    - Do you feel it becomes faster after codebook forming, how? -->
 
-### ExD:
+<!-- ### ExD:
 
 **Creating the Codebook**
 
@@ -94,7 +85,8 @@ For experiment group, AIcoder will be displayed to you during the experiment due
 **Coding using the Codebook**
 
 3. Mark up the remaining one material individually (~10 minutes).
-4. Fill up the [survey](https://docs.google.com/forms/d/e/1FAIpQLSe3nieWo47E6mrpkOF5X4HjWdoCXfYuois365srhVPcJJXQ-w/viewform?usp=sf_link) (~5 minutes).
+4. Fill up the [survey](https://docs.google.com/forms/d/e/1FAIpQLSe3nieWo47E6mrpkOF5X4HjWdoCXfYuois365srhVPcJJXQ-w/viewform?usp=sf_link) (~5 minutes). -->
+
 5. Answer the following questions (~5 minutes):
    - During the labeling process, what are the difficulties when you label individually? 
    - What are the difficulties when collaborating with each other?
